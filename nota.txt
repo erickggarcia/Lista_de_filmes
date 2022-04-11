@@ -1,0 +1,17 @@
+Lista de Requisitos:
+Funcionalidade:
+-1ªlista com um input 'text' para digitarmos o nome de um filme
+
+-Botão para adicionar o filme na Lista;
+
+-Ao clicar em adicionar o campo deverá ser limpo;
+
+-abaixo irá aparecer uma Lista;
+
+-ao lado desta, teremos um botão 'gerar aleatório' para vermos o filme que iremos assistir no dia;
+
+-abaixo será exbida a lista de filmes em ordem aleatória;
+
+-O mesmo filme não poderá ser exibido mais de uma vez nessa lista.
+
+
